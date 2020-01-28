@@ -33,5 +33,12 @@ int main()
 	Race(cars);
 	std::cin.get();
 	std::cout << "some conflicting action and some convention fixes" << "\n";
+	std::cin.get();
+	std::cout << "some task1 action" << "\n";
+	std::cin.get();
+	std::cout << "some task1 another action, with rebuild" << "\n";
+	std::cin.get();
+	std::cout << "some changes for stashing" << "\n";
+	std::cin.get();
 	return 0;
 }
